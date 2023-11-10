@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">proyecto2</string>
+    <string name="Mostrar">Mostrar</string>
+    <string name="escribe_tu_nombre">ESCRIBE TU NOMBRE</string>
+    <string name="volver2">Volver</string>
+    <string name="nombre">Nombre</string>
+</resources>
